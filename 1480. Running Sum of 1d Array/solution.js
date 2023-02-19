@@ -15,3 +15,4 @@ let test3 = [3,1,2,10,1]
 console.log(runningSum(test1));
 console.log(runningSum(test2));
 console.log(runningSum(test3));
+
