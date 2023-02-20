@@ -11,7 +11,7 @@ var pivotIndex = function(nums) {
 
 let test1 = [1,7,3,6,5,6]
 let test2 = [1,2,3]
-let test3 = [2,1,-1]``
+let test3 = [2,1,-1]
 
 console.log(pivotIndex(test1));
 console.log(pivotIndex(test2));
